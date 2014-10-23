@@ -6,7 +6,7 @@
 
 ## An Actor's Life for Me - An introduction to the TPL Dataflow Library and asynchronous programming blocks ##
 
-This repository provides the presentation, and source code for the samples and tutorial for the presentation given in Ledds on 18th October at DDD North 4.
+This repository provides the presentation, and source code for the samples and tutorial for the presentation given in Leeds on 18th October at DDD North 4.
 
 ----------
 
